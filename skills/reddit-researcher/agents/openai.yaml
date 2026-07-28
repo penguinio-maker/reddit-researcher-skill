@@ -1,0 +1,4 @@
+interface:
+  display_name: "Reddit Researcher"
+  short_description: "Research Reddit experiences and verify claims"
+  default_prompt: "Use $reddit-researcher to compare recent Reddit discussions, separate recurring experiences from isolated opinions, and verify important claims with primary sources."
